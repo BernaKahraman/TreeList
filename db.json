@@ -1,4 +1,4 @@
-[
+{"result":[
   {
     "id": 1,
     "text": "item1",
@@ -148,5 +148,6 @@
     "id": 37,
     "text": "item37",
     "parentId": 26
-  }
+    }
 ]
+}
