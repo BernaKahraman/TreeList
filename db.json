@@ -103,12 +103,14 @@
   {
     "id": 28,
     "text": "item28",
-    "parentId": 10
+    "parentId": 10,
+     "hasChild" : false
   },
   {
     "id": 29,
     "text": "item29",
-    "parentId": 10
+    "parentId": 10,
+     "hasChild" : false
   },
   {
     "id": 30,
